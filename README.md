@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Welcome 🌈 </h1>
+<h3 align="center"> Hello 🙋, I'm Marianna, 24 yo, from Brazil 🇧🇷. </h3>
+<p align="center">
+<a> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianna-belniok/"> </a>
+<a><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MariBelniok"></a>
+</p>
 
-<!--
-**MariBelniok/MariBelniok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩‍💻 First year student of System Analysis and Development at [UP](https://www.up.edu.br).
+#### 🤓 Also studing at [Launch Base Bootcamp](https://rocketseat.com.br/launchbase) by Rocketseat.
+#### 💻 Coding is my passion, and I'm looking forward for a developer job opotunity.
+#### ✔️ Technologies: HTML, CSS, JavaScript, Nodejs, Express and Nunjucks.
 
-Here are some ideas to get you started:
+<h1 align="center"> 
+    <img src="code-girl.svg">
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Thank you visiter, comeback soon.
