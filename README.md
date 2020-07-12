@@ -8,7 +8,7 @@
 #### 👩‍💻 First year student of System Analysis and Development at [UP](https://www.up.edu.br).
 #### 🤓 Also studing at [Launch Base Bootcamp](https://rocketseat.com.br/launchbase) by Rocketseat.
 #### 💻 Coding is my passion, and I'm looking forward for a developer job opotunity.
-#### ✔️ Technologies: HTML, CSS, JavaScript, Nodejs, Express and Nunjucks.
+#### ✔️ Technologies: HTML, CSS, JavaScript, Nodejs, Express, Nunjucks, SQL.
 
 <hr>
 
