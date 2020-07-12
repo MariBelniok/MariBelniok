@@ -10,8 +10,6 @@
 #### 💻 Coding is my passion, and I'm looking forward for a developer job opotunity.
 #### ✔️ Technologies: HTML, CSS, JavaScript, Nodejs, Express and Nunjucks.
 
-<h1 align="center"> 
-    <img src="code-girl.svg">
-</h1>
+<hr>
 
 ##### Thank you visiter, comeback soon.
