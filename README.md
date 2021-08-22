@@ -7,7 +7,7 @@
 
 #### 👩‍🎓 Last year student of System Analysis and Development at [UP](https://www.up.edu.br).
 #### 🤓 Also studing React at [Ignite Bootcamp](https://rocketseat.com.br/launchbase) by Rocketseat.
-#### 💻 Working with the following technologies: C#, .Net, Angular, SQL.
+#### 💻 Working with the following technologies: C#, .Net, Angular, SQL, NoSql, AWS Cloud Services.
 #### 👩‍💻 Studying the following technologies: React, Nodejs.
 
 <hr>
