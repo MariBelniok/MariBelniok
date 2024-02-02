@@ -1,16 +1,7 @@
-<h1> Welcome 🌈 </h1>
-<h3> Hello 🙋, I'm Marianna, 26 yo, 🇧🇷. </h3>
-<p>
-<a href="https://www.linkedin.com/in/marianna-belniok/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marianna-belniok/"> </a>
-<a text-align="center" href="https://github.com/MariBelniok"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MariBelniok"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Marianna</h1>
+<h3 align="center">A passionate full stack developer from Brazil 🇧🇷</h3>
 
-#### 👩‍🎓 Last year student of System Analysis and Development at [UP](https://www.up.edu.br).
-#### 💻 Deep diving in: Angular, React and React Native.
-#### 👩‍💻 Experimenting/studying: Node.js.
+- 📫 How to reach me: **mariannabelniok@outlook.com**
 
-<hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maribelniok&theme=dark&show_icons=true)](https://github.com/maribelniok/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maribelniok&layout=compact&theme=dark&show_icons=true)](https://github.com/maribelniok/github-readme-stats)
-
-##### Thank you visiter, comeback soon.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
